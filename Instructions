@@ -19,3 +19,15 @@ Select the "Create a new branch for this commit and start a pull request. Learn 
 Name the new Branch, "First Modification Branch"
 
 Click "Propose File Change"
+
+Review the Changes and seetings of this pull, merge, request
+
+Click the "Create Pull Request" button
+
+Observe the behavior
+
+Click on the cog next to "assignees" and make yourself the assignee for this request
+
+Wait for the request to be merged
+
+Refresh the page, open the "Edit this File" and observe the Changes
