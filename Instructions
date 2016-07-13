@@ -30,4 +30,41 @@ Click on the cog next to "assignees" and make yourself the assignee for this req
 
 Wait for the request to be merged
 
-Refresh the page, open the "Edit this File" and observe the Changes
+Refresh the page, open the "Edit this File" and observe the Changes that have been made
+
+_________________________________________________________________________________________________________________________________
+Part Two: Creating a repository
+Navigate back to you home page
+
+Click the "New Repository" button
+
+Name your Repository
+
+Provide your repository with a description
+
+Set you repository to public
+
+Check "Initialize this repository with a README"
+
+Click the "Create Repository" button
+
+Create a new Branch by clicking the "Branch" Dropdown menu
+
+Then type in the name you wish to use for the branch and click create branch
+
+Create a new file, name the file, edit the file, then commit to the branch you just created
+
+Click the "New Pull Request" button
+
+Make sure that the Master Branch is selected as the base branch with your new branch selected as the "compare to" branch
+
+Edit the commit for this pull request
+
+Then click "Create Pull Request"
+
+No Click the "Merge Request" button, "Confirm Request", then "Delete the Branch
+
+Go back to your repsoitory and oberve the changes
+
+Go into the history of the file you just added to the master branch
+_____________________________________________________________________________________________________________________________
